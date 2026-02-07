@@ -2,7 +2,7 @@
 
 Projeto desenvolvido durante meus estudos na plataforma **DIO (Digital Innovation One)**, com foco em fundamentos de lógica de programação utilizando JavaScript.
 
-<p align="center">
+<p align="left">
   <img src="assets/Motoca.svg" width="100" />
 </p>
 
