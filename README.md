@@ -2,7 +2,9 @@
 
 Projeto desenvolvido durante meus estudos na plataforma **DIO (Digital Innovation One)**, com foco em fundamentos de lógica de programação utilizando JavaScript.
 
-![Motoca](assets/Motoca.svg)
+<p align="center">
+  <img src="assets/Motoca.svg" width="200" />
+</p>
 
 ## ▶️ Sobre o projeto
 Este projeto tem como objetivo classificar o nível de um personagem com base na quantidade de experiência (XP).
